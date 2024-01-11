@@ -8,4 +8,8 @@
    Author URI: #
    License: GPL3
    */
+
+    if ( ! defined( 'ABSPATH' ) ) {
+        exit; // Exit if accessed directly
+    }
 ?>
